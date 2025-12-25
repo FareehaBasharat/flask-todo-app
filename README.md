@@ -45,6 +45,6 @@ flask-todo-app/
 4-Add user authentication
 5-Deploy the app online
  # 📌 Purpose of This Project
-This project was developed as a practice project to strengthen Flask fundamentals and is included in my internship portfolio.
+This project was developed as a practice project to strengthen Flask fundamentals and is included in my internship portfolio 
 
 
